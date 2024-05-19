@@ -4,6 +4,9 @@
 ## Project Overview
 This project implements a simple API server using FastAPI to interact with a language model from LangChain (LLAMA3) and a Streamlit-based GUI for generating essays and poems.
 
+# Required
+you need to install ollama and also need to download llama3 Model for running it
+
 ## Features
 - Generate well-formatted essays on a given topic using LLAMA3.
 - Generate well-formatted poems on a given topic using LLAMA3.
