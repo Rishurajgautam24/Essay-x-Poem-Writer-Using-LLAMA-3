@@ -1,4 +1,5 @@
 # Langchain API Project
+# Essay-x-Poem-Writer-Using-LLAMA-3
 
 ## Project Overview
 This project implements a simple API server using FastAPI to interact with a language model from LangChain (LLAMA3) and a Streamlit-based GUI for generating essays and poems.
